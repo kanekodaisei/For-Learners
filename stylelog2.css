@@ -1,0 +1,113 @@
+body{
+    font-family:"Hiragino Kaku Gothic ProN";
+    background-color: rgb(255, 241, 220);
+    margin:0;
+    height: 100%;
+}
+.container{
+    background-color: white;
+    width:1000px;
+    margin: auto;
+    height: auto;
+
+}
+header{
+    background-color: rgb(255, 164, 44);
+    height: 100px;
+    margin:0;
+}
+header h1{
+    margin-top: 0;
+    color: white;
+    line-height: 100px;
+    padding-left:30px;
+    font-size: 50px;
+}
+
+
+.main{
+    margin: auto;
+    width:90%;
+}
+
+.return{
+    font-size: 25px;
+    float: right;
+    padding: 20px;
+}
+
+h3{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.error{
+    color: red;
+    font-size: 25px;
+}
+dt{
+    font-size:25px;
+    padding:20px;
+    font-weight: bold;
+}
+dl{
+    margin:30px 0;
+}
+.email,.password,.name,.remarks{
+    height: 30px;
+    width: 400px;
+    font-size: 25px;
+}
+.picture{
+    height: 100px;
+    width: 500px;
+    font-size: 25px;
+}
+.skill{
+    height:40px;
+    width:300px;
+    font-size: 25px;
+}
+.comment{
+    height:120px;
+    width:600px;
+    font-size: 25px;
+}
+span{
+    color: red;
+    padding-left: 10px;
+}
+.main p{
+    font-size: 25px;
+}
+.gender{
+    height:25px;
+    width:50px;
+    margin:10px;
+}
+.btn{
+    height:70px;
+    width:150px;
+    font-size: 25px;
+    margin:30px;
+}
+.btn2{
+    font-size: 25px;
+}
+.confirm{
+    font-size: 25px;
+}
+dd{
+    font-size: 25px;}
+
+
+footer{
+    background-color: rgb(167, 165, 163);
+    height: 80px;
+}
+footer p{
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 20px;
+}
+
