@@ -1,5 +1,5 @@
 **成果物タイトル**
-For-Learners
+>For-Learners
 
 学ぶ人のためのマッチングサービスです。
 
