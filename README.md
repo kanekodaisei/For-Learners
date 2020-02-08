@@ -19,8 +19,11 @@ For-Learners<br>
 
 **使用した言語・ツール**
 
-PHP、SQL、HTML、CSS<br>
-<br>
+PHP 7.3.12<br>
+MySQL 5.0.12<br>
+HTML 5<br>
+CSS 3<br>
+<BR>
 
 
 **使用法の説明**
